@@ -1,5 +1,8 @@
 ## <script> alert(“ Hi there I'm Yu jin 👋 ”) </script>
-hr
+💁🏻‍♀️ Back-End Developer
+
+Email | 8566yu@gmail.com
+Blog | https://velog.io/@8566yu
 
 
 <!--
