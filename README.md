@@ -1,7 +1,7 @@
 ## <script> alert(“ Hi there I'm Yu jin 👋 ”) </script>
 #### 💁🏻‍♀️ Back-End Developer
 
-👩🏻‍💻 : https://www.notion.so/script-alert-Yu-jin-Portfolio-script-eea5833b3db74a179c2011895fcf703c?pvs=4
+👩🏻‍💻 : https://www.notion.so/script-alert-Yu-jin-Portfolio-script-eea5833b3db74a179c2011895fcf703c?pvs=4 <br>
 📧 : 8566yu@gmail.com <br>
 ✏️ : https://velog.io/@8566yu
 
