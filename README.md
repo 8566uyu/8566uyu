@@ -1,5 +1,5 @@
 ## <script> alert(“ Hi there I'm Yu jin 👋 ”) </script>
-<b>💁🏻‍♀️ Back-End Developer</b>
+#### 💁🏻‍♀️ Back-End Developer
 
 📧 : 8566yu@gmail.com <br>
 ✏️ : https://velog.io/@8566yu
