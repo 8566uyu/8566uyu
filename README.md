@@ -2,6 +2,7 @@
 💁🏻‍♀️ Back-End Developer
 
 Email | 8566yu@gmail.com
+
 Blog | https://velog.io/@8566yu
 
 
