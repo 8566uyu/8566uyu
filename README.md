@@ -5,8 +5,9 @@
 📧 : 8566yu@gmail.com <br>
 ✏️ : https://velog.io/@8566yu
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={8566uyu(string)})](https://github.com/anuraghazra/github-readme-stats
-[출처] 깃헙 메인 프로필 꾸미기 (뱃지 설정, 컴포넌트 추가)|작성자 무마니 vivi
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={8566uyu(string)})]
+
+<a href="https://github.com/8566uyu"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imysh578&layout=compact&theme=nord&hide_border=true" /></a> 
 
 
 
