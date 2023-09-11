@@ -39,7 +39,7 @@
 
 
  <br>
-  <br>
+
  <h6 align="center">Studying while doing a project</h6>
   <p align="center">
  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
