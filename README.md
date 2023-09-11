@@ -37,7 +37,6 @@
   <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 </p>
 
-
  <br>
 
  <h6 align="center">Studying while doing a project</h6>
@@ -55,6 +54,7 @@
   
 </p>
 
+ <br>
 
 
 <!--
