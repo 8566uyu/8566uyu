@@ -5,7 +5,7 @@
 📧 : 8566yu@gmail.com <br>
 ✏️ : https://velog.io/@8566yu
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브 닉네임&layout=레이아웃 스타일&theme=스타일)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8566uyu&layout=compact(&theme=white)
 
 <!--
 **8566uyu/8566uyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
