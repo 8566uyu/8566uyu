@@ -2,8 +2,8 @@
 #### 💁🏻‍♀️ Back-End Developer
 
 👩🏻‍💻 : https://www.notion.so/script-alert-Yu-jin-Portfolio-script-eea5833b3db74a179c2011895fcf703c?pvs=4 <br>
-📧 : 8566yu@gmail.com <br>
-✏️ : https://velog.io/@8566yu
+<a href="mailto:8566yu@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-#A4335?style=flat-square&logo=EA4335&logoColor=white"/></a>
+<a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
 
 
