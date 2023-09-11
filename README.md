@@ -5,7 +5,10 @@
 📧 : 8566yu@gmail.com <br>
 ✏️ : https://velog.io/@8566yu
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8566uyu&layout=compact(&theme=radical)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={8566uyu(string)})](https://github.com/anuraghazra/github-readme-stats
+[출처] 깃헙 메인 프로필 꾸미기 (뱃지 설정, 컴포넌트 추가)|작성자 무마니 vivi
+
+
 
 <!--
 **8566uyu/8566uyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
