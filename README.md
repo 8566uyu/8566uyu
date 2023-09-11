@@ -4,7 +4,6 @@
 
 
 <a href="https://www.notion.so/script-alert-Yu-jin-Portfolio-script-eea5833b3db74a179c2011895fcf703c?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
-
 <a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
 
